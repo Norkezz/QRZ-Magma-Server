@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "eaa10f4304ba3c61989be380fde00d7c"
+	name: "klimeow#eaa10f43"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
